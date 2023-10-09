@@ -1,5 +1,7 @@
 # ChatbotV2-haruko
 
+https://github.com/QuantumBytePanda/ChatbotV2-haruko/blob/main/CodeLogo4.png?raw=true
+
 Welcome to Haruko Chatbot! Haruko is a simple chatbot built using Python and Tkinter that can chat with you and even respond using text-to-speech. This README will provide an overview of the code and explain how to run and use the chatbot.
 
 ## Table of Contents
