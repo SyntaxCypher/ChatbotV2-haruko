@@ -1,4 +1,4 @@
-$fileToDelete = "E:\Code-Repo-2\Project Haruko\chat_history.db"
+$fileToDelete = "E:PATH\chat_history.db"
 
 # Check if the file exists
 if (Test-Path $fileToDelete) {
