@@ -26,6 +26,7 @@ Before running Haruko Chatbot, make sure you have the following dependencies ins
   pip install pillow
   pip install transformers
   pip install pyttsx3
+  pip install sqlite3
   python -m spacy download en_core_web_sm
 ```
 ## Installation
